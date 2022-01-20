@@ -1,5 +1,0 @@
-= Hello World!
-:icons: font
-
-International file +
-The end.
