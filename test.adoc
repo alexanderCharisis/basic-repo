@@ -3,6 +3,6 @@
 
 **This is a change from github!**
 
-_And this is a change from VStudio_
+_*And this is a change from VStudio_*
 
 NOTE: This is a note!
