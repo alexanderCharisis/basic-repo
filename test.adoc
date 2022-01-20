@@ -1,7 +1,4 @@
 = Hello World!
 :icons: font
 
-**This is a change from github!**
-
-NOTE: This is a note!
-CAUTION: **This is caution**!!
+Main file
