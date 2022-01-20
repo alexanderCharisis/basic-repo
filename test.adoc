@@ -1,4 +1,4 @@
 = Hello World!
 :icons: font
 
-**STASH \#1**
+**STASH #1**
