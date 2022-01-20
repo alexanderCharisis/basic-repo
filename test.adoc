@@ -3,5 +3,5 @@
 
 NOTE: Merge and conflict resolution.
 
-This was made on Master.
+This was made on Slave.
 
