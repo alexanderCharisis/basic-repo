@@ -1,4 +1,7 @@
 = Hello World!
 :icons: font
 
-**STASH #1**
+NOTE: Merge and conflict resolution.
+
+This was made on Master.
+
