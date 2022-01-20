@@ -3,7 +3,5 @@
 
 **This is a change from github!**
 
-*LEAVE BRITNEY ALONE!*
-
 NOTE: This is a note!
 CAUTION: **This is caution**!!
